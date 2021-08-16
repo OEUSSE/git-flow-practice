@@ -1,0 +1,1 @@
+Se modifican los integraciones correspondientes para que el relase sea exitoso.
